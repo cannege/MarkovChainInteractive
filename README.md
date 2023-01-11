@@ -1,2 +1,2 @@
 # MarkovChain
-In this project; A user-interactive code has been developed that handles the Markov Chain process for n-state transition and returns Steady-State, Mean Recurrence Time results.
+In this repository, a software application has been implemented which facilitates user interaction and manages the Markov Chain process for transitions between n states. It subsequently calculates and returns the Steady-State probabilities and Mean Recurrence Times of the system.
